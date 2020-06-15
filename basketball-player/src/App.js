@@ -4,8 +4,6 @@ import "./App.css";
 // import BasketballPlayerForm from "./components/BasketballPlayerForm";
 // import GamesPlayed from "./components/GamesPlayed";
 import { BasketballPlayerForm, GamesPlayed, BasketballTeamsContainer } from "./components";
-
-
 class App extends Component {
   constructor() {
     super();
